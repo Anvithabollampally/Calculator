@@ -5,15 +5,11 @@ HTML,
 CSS,
 Javascript
 ## About
-The Windows Calculator app is a modern Windows app written in C++ that ships pre-installed with Windows. The app provides standard, scientific, and programmer calculator functionality, as well as a set of converters between various units of measurement and currencies.
+Create a simple calculator, which allows computing with unlimited precision. The program reads data from the standard input and prints to the standard output. The calculator can add, subtract, multiply and divide. Priority of the operators is as usual and can be changed by parentheses. The input format of the numbers is usual with a decimal dot (integer numbers are of course also allowed). Numbers can be negative (i.e. unary minus can be also used).
 ## Navigation
 https://vercel.com/anvithabollampally/calculator
 ## Features
-* Standard Calculator functionality which offers basic operations and evaluates commands immediately as they are entered.
-* Scientific Calculator functionality which offers expanded operations and evaluates commands using order of operations.
-* Programmer Calculator functionality which offers common mathematical operations for developers including conversion between common bases.
-* Date Calculation functionality which offers the difference between two dates, as well as the ability to add/subtract years, months and/or days to/from a given input date.
-* Calculation history and memory capabilities.
-* Conversion between many units of measurement.
-* Currency conversion based on data retrieved from Bing.
-* Infinite precision for basic arithmetic operations (addition, subtraction, multiplication, division) so that calculations never lose precision.
+* Calculator functions in BASIC mode, single operation at a time
+* Operations: Addition, Subtraction, Multiplication, Division, Clear Display.
+* Linear Layout used for  portrait  orientations
+* Using Negative Sign before a number to allow for negative citations
